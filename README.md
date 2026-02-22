@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Pedro from Brazil<br><br>- 🔭 I’m working as .NET Developer<br>- 📚 I'm currently learning Domain-Driven Design<br>- 🌳 In my free time I'm a Ivern OTP</p>
+<p align="left">I'm Pedro from Brazil<br><br>- 🔭 I’m working as .NET Developer<br>- 📚 I'm currently learning ASP.NET<br>- 🌳 In my free time I'm a Ivern OTP</p>
 
 ###
 
